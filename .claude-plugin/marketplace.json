@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "jinnang",
+  "description": "hoverwinter 的个人 Claude Code 插件合集——锦囊里是针对特定场景的预制方案",
+  "owner": {
+    "name": "hoverwinter"
+  },
+  "plugins": [
+    {
+      "name": "wiki",
+      "description": "个人知识库管理：初始化仓库、摄入原始资料、查询、Lint 检查",
+      "source": "./plugins/wiki",
+      "category": "productivity"
+    }
+  ]
+}

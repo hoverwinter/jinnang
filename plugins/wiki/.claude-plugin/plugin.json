@@ -1,0 +1,15 @@
+{
+  "name": "wiki",
+  "description": "Personal knowledge wiki management — init, ingest, query, lint",
+  "version": "1.0.0",
+  "author": {
+    "name": "hoverwinter"
+  },
+  "keywords": [
+    "wiki",
+    "knowledge-base",
+    "notes",
+    "ingest"
+  ],
+  "license": "MIT"
+}
